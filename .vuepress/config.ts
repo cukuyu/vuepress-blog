@@ -8,7 +8,7 @@ export default defineUserConfig({
   theme: recoTheme({
     style: '@vuepress-reco/style-default',
     logo: '/logo.png',
-    author: 'reco_luan',
+    author: 'cukuyu',
     docsRepo: 'https://github.com/vuepress-reco/vuepress-theme-reco-next',
     docsBranch: 'main',
     docsDir: 'example',
